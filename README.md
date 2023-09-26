@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Judith Etugbo</h1>
 <h3 align="center">A passionate Android Developer and Technical Writer from Nigeria</h3>
-<img align="right" alt= "Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+
 
 - 🔭 I’m currently working on **Free lunch Mobile Application**
 
