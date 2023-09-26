@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there,👋 [I'm Judith Etugbo]()
 
-<!--
-**Nickyshe/Nickyshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Judith ✨ is a passionate Android Developer and Technical Writer from Nigeria** ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on a Free Lunch Mobile Application
+
+- 👯 I’m looking to collaborate on an open-source project and writing
+
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, and Technical Writing**
+  
+- 📫 How to reach me [judypearls200@gmail.com]()
+ 
+- ⚡ Fun fact: **I love coding, watching movies, writing, and making new friends. I love contributing to open-source projects
