@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Judith Etugbo</h1>
 <h3 align="center">A passionate Android Developer and Technical Writer from Nigeria</h3>
-![GitHub Logo](https://dribbble.com/shots/5487982-Developers-Gif)
+
 
 
 
