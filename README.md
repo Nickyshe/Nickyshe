@@ -14,4 +14,4 @@
   
 - 📫 How to reach me [judypearls200@gmail.com]()
  
-- ⚡ Fun fact: **I love coding, watching movies, writing, and making new friends. I love contributing to open-source projects
+- ⚡ Fun fact: **I love coding, watching movies, writing, and making new friends. I love contributing to open-source projects**
