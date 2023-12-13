@@ -4,9 +4,6 @@
 
 
 
-
-- 🔭 I’m currently working on **Sir Mish JAMB CBT and WAEC application**
-
 - 👯 I’m looking to collaborate on **Android Open-source Projects**
 
 - 📝 I regularly write articles on [https://judy.hashnode.dev/](https://judy.hashnode.dev/)
