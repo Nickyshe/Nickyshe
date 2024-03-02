@@ -3,11 +3,11 @@
 
 
 
-- 👯 I’m looking to collaborate on **Android Open-source Projects**
+- 👯 I’m looking to collaborate on **Open-source Projects**
 
 - 📝 I regularly write articles on [https://judy.hashnode.dev/](https://judy.hashnode.dev/)
 
-- 💬 Ask me about **Java, Kotlin, Jetpack Compose, and Technical Writing**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose, and Technical Writing/Documentation**
 
 - 📫 How to reach me: **judypearls200@gmail.com**
 
