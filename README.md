@@ -4,10 +4,11 @@
 
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
+- ✅ Check out my portfolio site [here](https://judithetugbo.netlify.app/)
 
 - 📝 I regularly write articles on [Hashnode](https://judy.hashnode.dev/) and [Medium](https://medium.com/@judypearls200)
 
-- 💬 Ask me about **Technical Writing, API Documentation, Technical Documentation, Doc as code, Developer Documentation, Web3 Content Writing**
+- 💬 Ask me about **Technical Writing, API Documentation, Technical Documentation, Web3 Content Writing**
 
 - 📫 How to reach me: **judypearls200@gmail.com**
 
