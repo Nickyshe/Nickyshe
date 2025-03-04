@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Technical Writing, API Documentation, Technical Documentation, Web3 Content Writing**
 
-- 📫 How to reach me: **judypearls200@gmail.com**
+- 📫 How to reach me: **etugbojudith800@gmail.com**
 
 - ⚡ Fun fact **I love coding, watching movies, writing, and making new friends. I love contributing to open-source projects**
 
