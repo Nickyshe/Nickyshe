@@ -4,7 +4,7 @@
 
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
-- ✅ Check out my portfolio site [here](https://judithetugbo.netlify.app/)
+- ✅ Check out my portfolio site [here](https://second-gazelle-cd0.notion.site/Portfolio-226582d0eba680e88616f4f60a2d9c5e)
 
 - 📝 I regularly write articles on [Hashnode](https://judy.hashnode.dev/) and [Medium](https://medium.com/@judypearls200)
 
